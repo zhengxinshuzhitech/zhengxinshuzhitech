@@ -1,0 +1,32 @@
+# app-ads.txt file for Zhengxin Shuzhi Technology
+# This file contains the authorized sellers of digital advertising inventory for our applications
+# Reference: https://iabtechlab.com/ads-txt/
+
+# Google AdMob
+google.com, ca-pub-xxxxxxxxxxxxxxxx, DIRECT, f08c47fec0942fa0
+
+# Facebook Audience Network  
+facebook.com, xxxxxxxxxxxxxxxx, DIRECT, c3e20eae3f2d26d7
+
+# Amazon Mobile Ads
+amazon.com, xxxxxxxxxxxxxxxx, DIRECT
+
+# AppLovin
+applovin.com, xxxxxxxxxxxxxxxx, DIRECT
+
+# Vungle
+vungle.com, xxxxxxxxxxxxxxxx, DIRECT
+
+# Tapjoy
+tapjoy.com, xxxxxxxxxxxxxxxx, DIRECT, 46e4eaa31d42360d
+
+# Unity Ads
+unity.com, xxxxxxxxxxxxxxxx, DIRECT
+
+# InMobi
+inmobi.com, xxxxxxxxxxxxxxxx, DIRECT
+
+# Comment: Replace all "xxxxxxxxxxxxxxxx" placeholders with actual publisher IDs from each ad network
+# This file is required for compliance with Google Play and Apple App Store policies
+# Last Updated: May 2024
+# Authorized Contact: support@zhengxinshuzhitech.com
